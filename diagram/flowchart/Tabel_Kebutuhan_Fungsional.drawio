@@ -1,0 +1,109 @@
+<mxfile host="65bd71144e">
+  <diagram id="kebutuhan-fungsional" name="Kebutuhan Fungsional">
+    <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="TABEL KEBUTUHAN FUNGSIONAL" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="600" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2">
+          <mxGeometry y="30" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="ID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#f5f5f5;fontStyle=1;overflow=hidden;align=center;" vertex="1" parent="3">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Kebutuhan Fungsional" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#f5f5f5;fontStyle=1;overflow=hidden;align=center;" vertex="1" parent="3">
+          <mxGeometry x="60" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Aktor" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#f5f5f5;fontStyle=1;overflow=hidden;align=center;" vertex="1" parent="3">
+          <mxGeometry x="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2">
+          <mxGeometry y="70" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="F-01" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=center;" vertex="1" parent="7">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Sistem dapat melakukan otentikasi login pengguna." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=left;spacingLeft=5;" vertex="1" parent="7">
+          <mxGeometry x="60" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Admin, Kader" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=center;" vertex="1" parent="7">
+          <mxGeometry x="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2">
+          <mxGeometry y="110" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="F-02" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=center;" vertex="1" parent="11">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Sistem dapat mengelola data anak (CRUD)." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=left;spacingLeft=5;" vertex="1" parent="11">
+          <mxGeometry x="60" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Admin, Kader" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=center;" vertex="1" parent="11">
+          <mxGeometry x="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2">
+          <mxGeometry y="150" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="F-03" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=center;" vertex="1" parent="15">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Sistem dapat mengelola data ibu hamil (CRUD)." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=left;spacingLeft=5;" vertex="1" parent="15">
+          <mxGeometry x="60" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Admin, Kader" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=center;" vertex="1" parent="15">
+          <mxGeometry x="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2">
+          <mxGeometry y="190" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="F-04" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=center;" vertex="1" parent="19">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="Sistem dapat mencatat data penimbangan dan imunisasi." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=left;spacingLeft=5;" vertex="1" parent="19">
+          <mxGeometry x="60" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="Admin, Kader" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=center;" vertex="1" parent="19">
+          <mxGeometry x="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2">
+          <mxGeometry y="230" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="F-05" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=center;" vertex="1" parent="23">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="Sistem dapat mencatat pemeriksaan kesehatan ibu hamil." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=left;spacingLeft=5;" vertex="1" parent="23">
+          <mxGeometry x="60" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="Admin, Kader" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=center;" vertex="1" parent="23">
+          <mxGeometry x="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2">
+          <mxGeometry y="270" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="F-06" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=center;" vertex="1" parent="27">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="Sistem dapat mengelola data kader (CRUD)." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=left;spacingLeft=5;" vertex="1" parent="27">
+          <mxGeometry x="60" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="Admin" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=center;" vertex="1" parent="27">
+          <mxGeometry x="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2">
+          <mxGeometry y="310" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="F-07" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=center;" vertex="1" parent="31">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="Sistem dapat menghasilkan laporan bulanan otomatis." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=left;spacingLeft=5;" vertex="1" parent="31">
+          <mxGeometry x="60" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="Admin, Kader" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;overflow=hidden;align=center;" vertex="1" parent="31">
+          <mxGeometry x="400" width="200" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
