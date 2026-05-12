@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+  <diagram id="pemeriksaan-ibu-tambah" name="Tambah Pemeriksaan Ibu">
+    <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry width="827" height="1169" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e5e7eb;" vertex="1" parent="1">
+          <mxGeometry width="200" height="1169" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e5e7eb;" vertex="1" parent="1">
+          <mxGeometry x="200" width="627" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Tambah Pemeriksaan Ibu" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="← Kembali" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=none;fontColor=#0f172a;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="85" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#eef2f7;" vertex="1" parent="1">
+          <mxGeometry x="220" y="140" width="580" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="💾 Simpan Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2563eb;strokeColor=none;fontColor=#ffffff;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="730" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="↺ Reset" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fee2e2;strokeColor=none;fontColor=#dc2626;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="730" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
